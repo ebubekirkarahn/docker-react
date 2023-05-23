@@ -10,5 +10,4 @@ script:
 
 deploy:
   provider: elasticbeanstalk
-  region:
     
